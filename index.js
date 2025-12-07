@@ -7,7 +7,7 @@ const app = express();
 // LESLIE settings 🦏
 const CONTRACT_ADDRESS = "0xcc9e0bd9438ca0056653d134de794abeaff8c676";
 const BURN_ADDRESS = "0x000000000000000000000000000000000000dEaD";
-const DECIMALS = 18n;
+const DECIMALS = 9n;
 const MAX_SUPPLY_TOKENS = 10000000000n; // 10 miliardi LESLIE
 
 // Max supply in unità on-chain
